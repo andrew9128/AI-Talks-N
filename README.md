@@ -1,5 +1,5 @@
 # AI-Talks-N
-* install this code
+* install this code create codespace on main
 * rename 'streamlit' to '.streamlit' 
 * rename 'vscode' to '.vscode'
 
